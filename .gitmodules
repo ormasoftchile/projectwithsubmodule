@@ -1,0 +1,6 @@
+[submodule "lib/moment"]
+	path = lib/moment
+	url = https://github.com/moment/moment.git
+[submodule "lib/idb"]
+	path = lib/idb
+	url = https://github.com/jakearchibald/idb.git
